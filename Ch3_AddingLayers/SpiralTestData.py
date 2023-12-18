@@ -9,10 +9,10 @@ from ..Ch4_ActivationFunctions.SoftMax_Class import Softmax
 
 
 """
-    Please run this file from one directory above "NN" as a module.
+    Please run this modeule as a script from one directory above "NN".
 
     Example terminal command from desktop:
-        python -m NN.Ch3_AddingLayers.Importing_test_data 
+        python -m NN.Ch3_AddingLayers.SpiralTestData 
 """
 
 
