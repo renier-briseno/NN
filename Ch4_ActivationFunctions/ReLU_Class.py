@@ -1,5 +1,5 @@
 import numpy as np
 
-class ReLU_Activation:
+class ReLU:
     def forward(self, inputs):
         self.output = np.maximum(0, inputs)
